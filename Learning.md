@@ -10,19 +10,6 @@ To visit the whole article, mentioned in the video
 
 For the Configuration article, you can visit:
 ►► https://code-maze.com/net-core-web-development-part1/
-To visit our site:
-►► https://code-maze.com/
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-MORE CODE MAZE STUFF?
-And you can check out our Merch here:
-►► https://www.redbubble.com/people/vpec...
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-FOLLOW US ON SOCIAL MEDIA!
-►► https://twitter.com/CodeMazeBlog
-►► https://www.facebook.com/CodeMazeBlog
-
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 VIDEO SUMMARY:
 Securing a web application is one of the most important jobs to do and usually one of the hardest things to pull off. That said, in this video, we are going to learn how to implement authentication in ASP.Net Core application using the JSON web tokens. Also, in the next video, we are going to cover the usage of JSON Web Tokens in Angular application consuming our API.
