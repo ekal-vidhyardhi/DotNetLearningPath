@@ -9,7 +9,7 @@ To visit the whole article, mentioned in the video
 ►► https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0lJYTRsMVZDNEdISFlTb3Zmcm9uT2hqRDVGQXxBQ3Jtc0ttMkI1VTItNkdMRXhQSHBDSkNoY09MQllpdmZZWHdHMndZSmRJdEdRdlRMRWl6NHQ4UVpjT0VlY2pZNmM0OUZHMWp2YXk2RTREdlM1T3NMcVAzbTlJZFREaGhlUWw3ZDlQbEdKMGNlMTlUQk01Z21PUQ&q=https%3A%2F%2Fcode-maze.com%2Fauthentication-aspnetcore-jwt-1%2F
 
 For the Configuration article, you can visit:
-►► https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDBwWW9Qb1FBdDZSVThrbDZ1TE03c1M4NzNvQXxBQ3Jtc0tuc2FZYnFQYml4TG5DQThCSVlqWXBXSXp1QXBPT0pUZmx6TE1BcHVFTFlGMldXaW5rTVZPVFV2Qmw4S2VEV0JMZ3FYUGQwRjhkR2c3cnRyVTNMMUt3ZXIybF9XcWNZQU5Gdl9VS2dNY1RjVlFuUm93cw&q=https%3A%2F%2Fcode-maze.com%2Fnet-core-web-development-part2%2F
+►► https://code-maze.com/net-core-web-development-part1/
 To visit our site:
 ►► https://code-maze.com/
 
